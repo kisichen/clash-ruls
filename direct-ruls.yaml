@@ -46,6 +46,6 @@ payload:
   - '+.rockylinux.org'
   - '+.centos.org'
   - '+.myds.me'
-  - '+.rockylinux.org'
+#  - '+.rockylinux.org'
   - '+.meijumi.net'
   - '+.cloudflare.com'
